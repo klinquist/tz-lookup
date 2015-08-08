@@ -17,7 +17,13 @@ To use:
 
     > var tz = require("tz-lookup");
     > console.log(tz(42.7235, -73.6931));
-    "America/New_York"
+
+    { id: 'America/New_York',
+      name: 'Eastern Standard Time',
+      country: 'US',
+      abbreviation: 'EDT',
+      dst: '1',
+      gmtOffset: '-14400' }
 
 **Please take note of the following:**
 
@@ -50,8 +56,12 @@ convert it to a GeoJSON using GDAL, put it in the project directory (with the
 name `tz_world.json`), and run `json2bin >tz.bin`. The timezone database was
 last updated on 26 Nov 2013.
 
+Additional names, country codes, and GMT offset data provided by [unicode][3] and [TimeZoneDB][4]
+
 [1]: https://forecast.io/
 [2]: http://efele.net/maps/tz/
+[3]: http://unicode.org/repos/cldr/trunk/common/supplemental/windowsZones.xml
+[4]: http://www.timezonedb.com
 
 License
 -------
