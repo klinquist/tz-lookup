@@ -1,0 +1,3753 @@
+[
+  {
+    "id": "Africa/Abidjan",
+    "name": "Greenwich Standard Time",
+    "country": "CI",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Abidjan"
+  },
+  {
+    "id": "Africa/Accra",
+    "name": "Greenwich Standard Time",
+    "country": "GH",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Accra"
+  },
+  {
+    "id": "Africa/Addis_Ababa",
+    "name": "E. Africa Standard Time",
+    "country": "ET",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Addis Ababa"
+  },
+  {
+    "id": "Africa/Algiers",
+    "name": "W. Central Africa Standard Time",
+    "country": "DZ",
+    "abbreviation": "CET",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Algiers"
+  },
+  {
+    "id": "Africa/Asmara",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "country": "ER",
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Asmara"
+  },
+  {
+    "id": "Africa/Bamako",
+    "name": "Greenwich Standard Time",
+    "country": "ML",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Bamako"
+  },
+  {
+    "id": "Africa/Bangui",
+    "name": "W. Central Africa Standard Time",
+    "country": "CF",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Bangui"
+  },
+  {
+    "id": "Africa/Banjul",
+    "name": "Greenwich Standard Time",
+    "country": "GM",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Banjul"
+  },
+  {
+    "id": "Africa/Bissau",
+    "name": "Greenwich Standard Time",
+    "country": "GW",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Bissau"
+  },
+  {
+    "id": "Africa/Blantyre",
+    "name": "South Africa Standard Time",
+    "country": "MW",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Blantyre"
+  },
+  {
+    "id": "Africa/Brazzaville",
+    "name": "W. Central Africa Standard Time",
+    "country": "CG",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Brazzaville"
+  },
+  {
+    "id": "Africa/Bujumbura",
+    "name": "South Africa Standard Time",
+    "country": "BI",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Bujumbura"
+  },
+  {
+    "id": "Africa/Cairo",
+    "name": "Egypt Standard Time",
+    "country": "EG",
+    "abbreviation": "EET",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Cairo"
+  },
+  {
+    "id": "Africa/Casablanca",
+    "name": "Morocco Standard Time",
+    "country": "MA",
+    "abbreviation": "WEST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT) Monrovia"
+  },
+  {
+    "id": "Africa/Ceuta",
+    "name": "Romance Standard Time",
+    "country": "ES",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Ceuta"
+  },
+  {
+    "id": "Africa/Conakry",
+    "name": "Greenwich Standard Time",
+    "country": "GN",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Conakry"
+  },
+  {
+    "id": "Africa/Dakar",
+    "name": "Greenwich Standard Time",
+    "country": "SN",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Dakar"
+  },
+  {
+    "id": "Africa/Dar_es_Salaam",
+    "name": "E. Africa Standard Time",
+    "country": "TZ",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Dar es Salaam"
+  },
+  {
+    "id": "Africa/Djibouti",
+    "name": "E. Africa Standard Time",
+    "country": "DJ",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Djibouti"
+  },
+  {
+    "id": "Africa/Douala",
+    "name": "W. Central Africa Standard Time",
+    "country": "CM",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Douala"
+  },
+  {
+    "id": "Africa/El_Aaiun",
+    "name": "Morocco Standard Time",
+    "country": "EH",
+    "abbreviation": "WEST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) El Aaiun"
+  },
+  {
+    "id": "Africa/Freetown",
+    "name": "Greenwich Standard Time",
+    "country": "SL",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Freetown"
+  },
+  {
+    "id": "Africa/Gaborone",
+    "name": "South Africa Standard Time",
+    "country": "BW",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Gaborone"
+  },
+  {
+    "id": "Africa/Harare",
+    "name": "South Africa Standard Time",
+    "country": "ZW",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Harare"
+  },
+  {
+    "id": "Africa/Johannesburg",
+    "name": "South Africa Standard Time",
+    "country": "ZA",
+    "abbreviation": "SAST",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Pretoria"
+  },
+  {
+    "id": "Africa/Juba",
+    "name": "E. Africa Standard Time",
+    "country": "SS",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800
+  },
+  {
+    "id": "Africa/Kampala",
+    "name": "E. Africa Standard Time",
+    "country": "UG",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Kampala"
+  },
+  {
+    "id": "Africa/Khartoum",
+    "name": "E. Africa Standard Time",
+    "country": "SD",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Khartoum"
+  },
+  {
+    "id": "Africa/Kigali",
+    "name": "South Africa Standard Time",
+    "country": "RW",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Kigali"
+  },
+  {
+    "id": "Africa/Kinshasa",
+    "name": "W. Central Africa Standard Time",
+    "country": "CD",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600
+  },
+  {
+    "id": "Africa/Lagos",
+    "name": "W. Central Africa Standard Time",
+    "country": "NG",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) West Central Africa"
+  },
+  {
+    "id": "Africa/Libreville",
+    "name": "W. Central Africa Standard Time",
+    "country": "GA",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Libreville"
+  },
+  {
+    "id": "Africa/Lome",
+    "name": "Greenwich Standard Time",
+    "country": "TG",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Lome"
+  },
+  {
+    "id": "Africa/Luanda",
+    "name": "W. Central Africa Standard Time",
+    "country": "AO",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Luanda"
+  },
+  {
+    "id": "Africa/Lubumbashi",
+    "name": "South Africa Standard Time",
+    "country": "CD",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200
+  },
+  {
+    "id": "Africa/Lusaka",
+    "name": "South Africa Standard Time",
+    "country": "ZM",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Lusaka"
+  },
+  {
+    "id": "Africa/Malabo",
+    "name": "W. Central Africa Standard Time",
+    "country": "GQ",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Malabo"
+  },
+  {
+    "id": "Africa/Maputo",
+    "name": "South Africa Standard Time",
+    "country": "MZ",
+    "abbreviation": "CAT",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Maputo"
+  },
+  {
+    "id": "Africa/Maseru",
+    "name": "South Africa Standard Time",
+    "country": "LS",
+    "abbreviation": "SAST",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Maseru"
+  },
+  {
+    "id": "Africa/Mbabane",
+    "name": "South Africa Standard Time",
+    "country": "SZ",
+    "abbreviation": "SAST",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Mbabane"
+  },
+  {
+    "id": "Africa/Mogadishu",
+    "name": "E. Africa Standard Time",
+    "country": "SO",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Mogadishu"
+  },
+  {
+    "id": "Africa/Monrovia",
+    "name": "Greenwich Standard Time",
+    "country": "LR",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Monrovia"
+  },
+  {
+    "id": "Africa/Nairobi",
+    "name": "E. Africa Standard Time",
+    "country": "KE",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Nairobi"
+  },
+  {
+    "id": "Africa/Ndjamena",
+    "name": "W. Central Africa Standard Time",
+    "country": "TD",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Ndjamena"
+  },
+  {
+    "id": "Africa/Niamey",
+    "name": "W. Central Africa Standard Time",
+    "country": "NE",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Niamey"
+  },
+  {
+    "id": "Africa/Nouakchott",
+    "name": "Greenwich Standard Time",
+    "country": "MR",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Nouakchott"
+  },
+  {
+    "id": "Africa/Ouagadougou",
+    "name": "Greenwich Standard Time",
+    "country": "BF",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Ouagadougou"
+  },
+  {
+    "id": "Africa/Porto-Novo",
+    "name": "W. Central Africa Standard Time",
+    "country": "BJ",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Porto-Novo"
+  },
+  {
+    "id": "Africa/Sao_Tome",
+    "name": "Greenwich Standard Time",
+    "country": "ST",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Sao Tome"
+  },
+  {
+    "id": "Africa/Tripoli",
+    "name": "Libya Standard Time",
+    "country": "LY",
+    "abbreviation": "EET",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Tripoli"
+  },
+  {
+    "id": "Africa/Tunis",
+    "name": "W. Central Africa Standard Time",
+    "country": "TN",
+    "abbreviation": "CET",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Tunis"
+  },
+  {
+    "id": "Africa/Windhoek",
+    "name": "Namibia Standard Time",
+    "country": "NA",
+    "abbreviation": "WAT",
+    "dst": 0,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+01:00) Windhoek"
+  },
+  {
+    "id": "America/Adak",
+    "abbreviation": "HDT",
+    "dst": 1,
+    "country": "US",
+    "gmtOffset": -32400,
+    "friendlyName": "(GMT-10:00) Adak"
+  },
+  {
+    "id": "America/Anchorage",
+    "name": "Alaskan Standard Time",
+    "country": "US",
+    "abbreviation": "AKDT",
+    "dst": 1,
+    "gmtOffset": -28800,
+    "friendlyName": "(GMT-09:00) Alaska"
+  },
+  {
+    "id": "America/Anguilla",
+    "name": "SA Western Standard Time",
+    "country": "AI",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Anguilla"
+  },
+  {
+    "id": "America/Antigua",
+    "name": "SA Western Standard Time",
+    "country": "AG",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Antigua"
+  },
+  {
+    "id": "America/Araguaina",
+    "name": "SA Eastern Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Araguaina"
+  },
+  {
+    "id": "America/Argentina/Buenos_Aires",
+    "abbreviation": "ART",
+    "dst": 0,
+    "country": "AR",
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Georgetown"
+  },
+  {
+    "id": "America/Argentina/Catamarca",
+    "abbreviation": "ART",
+    "dst": 0,
+    "country": "AR",
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Catamarca"
+  },
+  {
+    "id": "America/Argentina/Cordoba",
+    "abbreviation": "ART",
+    "dst": 0,
+    "country": "AR",
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Cordoba"
+  },
+  {
+    "id": "America/Argentina/Jujuy",
+    "abbreviation": "ART",
+    "dst": 0,
+    "country": "AR",
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Jujuy"
+  },
+  {
+    "id": "America/Argentina/La_Rioja",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/La Rioja"
+  },
+  {
+    "id": "America/Argentina/Mendoza",
+    "abbreviation": "ART",
+    "dst": 0,
+    "country": "AR",
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Mendoza"
+  },
+  {
+    "id": "America/Argentina/Rio_Gallegos",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Rio Gallegos"
+  },
+  {
+    "id": "America/Argentina/Salta",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800
+  },
+  {
+    "id": "America/Argentina/San_Juan",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/San Juan"
+  },
+  {
+    "id": "America/Argentina/San_Luis",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/San Luis"
+  },
+  {
+    "id": "America/Argentina/Tucuman",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Tucuman"
+  },
+  {
+    "id": "America/Argentina/Ushuaia",
+    "name": "Argentina Standard Time",
+    "country": "AR",
+    "abbreviation": "ART",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Argentina/Ushuaia"
+  },
+  {
+    "id": "America/Aruba",
+    "name": "SA Western Standard Time",
+    "country": "AW",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Aruba"
+  },
+  {
+    "id": "America/Asuncion",
+    "name": "Paraguay Standard Time",
+    "country": "PY",
+    "abbreviation": "PYT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Asuncion"
+  },
+  {
+    "id": "America/Atikokan",
+    "abbreviation": "EST",
+    "dst": 0,
+    "country": "CA",
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Atikokan"
+  },
+  {
+    "id": "America/Bahia",
+    "name": "Bahia Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800
+  },
+  {
+    "id": "America/Bahia_Banderas",
+    "name": "Central Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000
+  },
+  {
+    "id": "America/Barbados",
+    "name": "SA Western Standard Time",
+    "country": "BB",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Barbados"
+  },
+  {
+    "id": "America/Belem",
+    "name": "SA Eastern Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Belem"
+  },
+  {
+    "id": "America/Belize",
+    "name": "Central America Standard Time",
+    "country": "BZ",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Belize"
+  },
+  {
+    "id": "America/Blanc-Sablon",
+    "name": "SA Western Standard Time",
+    "country": "CA",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Blanc-Sablon"
+  },
+  {
+    "id": "America/Boa_Vista",
+    "name": "SA Western Standard Time",
+    "country": "BR",
+    "abbreviation": "AMT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Boa Vista"
+  },
+  {
+    "id": "America/Bogota",
+    "name": "SA Pacific Standard Time",
+    "country": "CO",
+    "abbreviation": "COT",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Quito"
+  },
+  {
+    "id": "America/Boise",
+    "name": "Mountain Standard Time",
+    "country": "US",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Boise"
+  },
+  {
+    "id": "America/Cambridge_Bay",
+    "name": "Mountain Standard Time",
+    "country": "CA",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Cambridge Bay"
+  },
+  {
+    "id": "America/Campo_Grande",
+    "name": "Central Brazilian Standard Time",
+    "country": "BR",
+    "abbreviation": "AMT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Campo Grande"
+  },
+  {
+    "id": "America/Cancun",
+    "name": "Eastern Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "EST",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Cancun"
+  },
+  {
+    "id": "America/Caracas",
+    "name": "Venezuela Standard Time",
+    "country": "VE",
+    "abbreviation": "VET",
+    "dst": 0,
+    "gmtOffset": -16200,
+    "friendlyName": "(GMT-04:00) La Paz"
+  },
+  {
+    "id": "America/Cayenne",
+    "name": "SA Eastern Standard Time",
+    "country": "GF",
+    "abbreviation": "GFT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Cayenne"
+  },
+  {
+    "id": "America/Cayman",
+    "name": "SA Pacific Standard Time",
+    "country": "KY",
+    "abbreviation": "EST",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Cayman"
+  },
+  {
+    "id": "America/Chicago",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Central Time (US &amp; Canada)"
+  },
+  {
+    "id": "America/Chihuahua",
+    "name": "Mountain Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Mazatlan"
+  },
+  {
+    "id": "America/Coral_Harbour",
+    "name": "SA Pacific Standard Time",
+    "country": "CA",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "America/Costa_Rica",
+    "name": "Central America Standard Time",
+    "country": "CR",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Costa Rica"
+  },
+  {
+    "id": "America/Creston",
+    "name": "US Mountain Standard Time",
+    "country": "CA",
+    "abbreviation": "MST",
+    "dst": 0,
+    "gmtOffset": -25200
+  },
+  {
+    "id": "America/Cuiaba",
+    "name": "Central Brazilian Standard Time",
+    "country": "BR",
+    "abbreviation": "AMT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Cuiaba"
+  },
+  {
+    "id": "America/Curacao",
+    "name": "SA Western Standard Time",
+    "country": "CW",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Curacao"
+  },
+  {
+    "id": "America/Danmarkshavn",
+    "name": "UTC",
+    "country": "GL",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Danmarkshavn"
+  },
+  {
+    "id": "America/Dawson",
+    "name": "Pacific Standard Time",
+    "country": "CA",
+    "abbreviation": "PDT",
+    "dst": 1,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-08:00) Dawson"
+  },
+  {
+    "id": "America/Dawson_Creek",
+    "name": "US Mountain Standard Time",
+    "country": "CA",
+    "abbreviation": "MST",
+    "dst": 0,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-07:00) Dawson Creek"
+  },
+  {
+    "id": "America/Denver",
+    "name": "Mountain Standard Time",
+    "country": "US",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Mountain Time (US &amp; Canada)"
+  },
+  {
+    "id": "America/Detroit",
+    "name": "Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Detroit"
+  },
+  {
+    "id": "America/Dominica",
+    "name": "SA Western Standard Time",
+    "country": "DM",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Dominica"
+  },
+  {
+    "id": "America/Edmonton",
+    "name": "Mountain Standard Time",
+    "country": "CA",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Edmonton"
+  },
+  {
+    "id": "America/Eirunepe",
+    "name": "SA Pacific Standard Time",
+    "country": "BR",
+    "abbreviation": "ACT",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Eirunepe"
+  },
+  {
+    "id": "America/El_Salvador",
+    "name": "Central America Standard Time",
+    "country": "SV",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) El Salvador"
+  },
+  {
+    "id": "America/Fortaleza",
+    "name": "SA Eastern Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Fortaleza"
+  },
+  {
+    "id": "America/Glace_Bay",
+    "name": "Atlantic Standard Time",
+    "country": "CA",
+    "abbreviation": "ADT",
+    "dst": 1,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Glace Bay"
+  },
+  {
+    "id": "America/Godthab",
+    "name": "Greenland Standard Time",
+    "country": "GL",
+    "abbreviation": "WGST",
+    "dst": 1,
+    "gmtOffset": -7200,
+    "friendlyName": "(GMT-03:00) Greenland"
+  },
+  {
+    "id": "America/Goose_Bay",
+    "name": "Atlantic Standard Time",
+    "country": "CA",
+    "abbreviation": "ADT",
+    "dst": 1,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Goose Bay"
+  },
+  {
+    "id": "America/Grand_Turk",
+    "name": "SA Western Standard Time",
+    "country": "TC",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Grand Turk"
+  },
+  {
+    "id": "America/Grenada",
+    "name": "SA Western Standard Time",
+    "country": "GD",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Grenada"
+  },
+  {
+    "id": "America/Guadeloupe",
+    "name": "SA Western Standard Time",
+    "country": "GP",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/Guatemala",
+    "name": "Central America Standard Time",
+    "country": "GT",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Guatemala"
+  },
+  {
+    "id": "America/Guayaquil",
+    "name": "SA Pacific Standard Time",
+    "country": "EC",
+    "abbreviation": "ECT",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Guayaquil"
+  },
+  {
+    "id": "America/Guyana",
+    "name": "SA Western Standard Time",
+    "country": "GY",
+    "abbreviation": "GYT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Guyana"
+  },
+  {
+    "id": "America/Halifax",
+    "name": "Atlantic Standard Time",
+    "country": "CA",
+    "abbreviation": "ADT",
+    "dst": 1,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Atlantic Time (Canada)"
+  },
+  {
+    "id": "America/Havana",
+    "name": "Eastern Standard Time",
+    "country": "CU",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Havana"
+  },
+  {
+    "id": "America/Hermosillo",
+    "name": "US Mountain Standard Time",
+    "country": "MX",
+    "abbreviation": "MST",
+    "dst": 0,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-07:00) Hermosillo"
+  },
+  {
+    "id": "America/Indiana/Indianapolis",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "country": "US",
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Indiana (East)"
+  },
+  {
+    "id": "America/Indiana/Knox",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Indiana/Knox"
+  },
+  {
+    "id": "America/Indiana/Marengo",
+    "name": "US Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Indiana/Marengo"
+  },
+  {
+    "id": "America/Indiana/Petersburg",
+    "name": "Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Indiana/Petersburg"
+  },
+  {
+    "id": "America/Indiana/Tell_City",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Indiana/Tell City"
+  },
+  {
+    "id": "America/Indiana/Vevay",
+    "name": "US Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Indiana/Vevay"
+  },
+  {
+    "id": "America/Indiana/Vincennes",
+    "name": "Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Indiana/Vincennes"
+  },
+  {
+    "id": "America/Indiana/Winamac",
+    "name": "Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Indiana/Winamac"
+  },
+  {
+    "id": "America/Inuvik",
+    "name": "Mountain Standard Time",
+    "country": "CA",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Inuvik"
+  },
+  {
+    "id": "America/Iqaluit",
+    "name": "Eastern Standard Time",
+    "country": "CA",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Iqaluit"
+  },
+  {
+    "id": "America/Jamaica",
+    "name": "SA Pacific Standard Time",
+    "country": "JM",
+    "abbreviation": "EST",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Jamaica"
+  },
+  {
+    "id": "America/Juneau",
+    "name": "Alaskan Standard Time",
+    "country": "US",
+    "abbreviation": "AKDT",
+    "dst": 1,
+    "gmtOffset": -28800,
+    "friendlyName": "(GMT-09:00) Juneau"
+  },
+  {
+    "id": "America/Kentucky/Louisville",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "country": "US",
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Kentucky/Louisville"
+  },
+  {
+    "id": "America/Kentucky/Monticello",
+    "name": "Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Kentucky/Monticello"
+  },
+  {
+    "id": "America/Kralendijk",
+    "name": "SA Western Standard Time",
+    "country": "BQ",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/La_Paz",
+    "name": "SA Western Standard Time",
+    "country": "BO",
+    "abbreviation": "BOT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) La Paz"
+  },
+  {
+    "id": "America/Lima",
+    "name": "SA Pacific Standard Time",
+    "country": "PE",
+    "abbreviation": "PET",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Lima"
+  },
+  {
+    "id": "America/Los_Angeles",
+    "name": "Pacific Standard Time",
+    "country": "US",
+    "abbreviation": "PDT",
+    "dst": 1,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-08:00) Pacific Time (US &amp; Canada); Tijuana"
+  },
+  {
+    "id": "America/Lower_Princes",
+    "name": "SA Western Standard Time",
+    "country": "SX",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/Maceio",
+    "name": "SA Eastern Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Maceio"
+  },
+  {
+    "id": "America/Managua",
+    "name": "Central America Standard Time",
+    "country": "NI",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Central America"
+  },
+  {
+    "id": "America/Manaus",
+    "name": "SA Western Standard Time",
+    "country": "BR",
+    "abbreviation": "AMT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Manaus"
+  },
+  {
+    "id": "America/Marigot",
+    "name": "SA Western Standard Time",
+    "country": "MF",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/Martinique",
+    "name": "SA Western Standard Time",
+    "country": "MQ",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Martinique"
+  },
+  {
+    "id": "America/Matamoros",
+    "name": "Central Standard Time",
+    "country": "MX",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000
+  },
+  {
+    "id": "America/Mazatlan",
+    "name": "Mountain Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Mazatlan"
+  },
+  {
+    "id": "America/Menominee",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Menominee"
+  },
+  {
+    "id": "America/Merida",
+    "name": "Central Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Merida"
+  },
+  {
+    "id": "America/Metlakatla",
+    "abbreviation": "PST",
+    "dst": 0,
+    "country": "US",
+    "gmtOffset": -28800
+  },
+  {
+    "id": "America/Mexico_City",
+    "name": "Central Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Monterrey"
+  },
+  {
+    "id": "America/Miquelon",
+    "abbreviation": "PMDT",
+    "dst": 1,
+    "country": "PM",
+    "gmtOffset": -7200,
+    "friendlyName": "(GMT-03:00) Miquelon"
+  },
+  {
+    "id": "America/Moncton",
+    "name": "Atlantic Standard Time",
+    "country": "CA",
+    "abbreviation": "ADT",
+    "dst": 1,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Moncton"
+  },
+  {
+    "id": "America/Monterrey",
+    "name": "Central Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Monterrey"
+  },
+  {
+    "id": "America/Montevideo",
+    "name": "Montevideo Standard Time",
+    "country": "UY",
+    "abbreviation": "UYT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Montevideo"
+  },
+  {
+    "id": "America/Montreal",
+    "name": "Eastern Standard Time",
+    "country": "CA",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT-05:00) Montreal"
+  },
+  {
+    "id": "America/Montserrat",
+    "name": "SA Western Standard Time",
+    "country": "MS",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Montserrat"
+  },
+  {
+    "id": "America/Nassau",
+    "name": "Eastern Standard Time",
+    "country": "BS",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Nassau"
+  },
+  {
+    "id": "America/New_York",
+    "name": "Eastern Standard Time",
+    "country": "US",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Eastern Time (US &amp; Canada)"
+  },
+  {
+    "id": "America/Nipigon",
+    "name": "Eastern Standard Time",
+    "country": "CA",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Nipigon"
+  },
+  {
+    "id": "America/Nome",
+    "name": "Alaskan Standard Time",
+    "country": "US",
+    "abbreviation": "AKDT",
+    "dst": 1,
+    "gmtOffset": -28800,
+    "friendlyName": "(GMT-09:00) Nome"
+  },
+  {
+    "id": "America/Noronha",
+    "name": "UTC-02",
+    "country": "BR",
+    "abbreviation": "FNT",
+    "dst": 0,
+    "gmtOffset": -7200,
+    "friendlyName": "(GMT-02:00) Mid-Atlantic"
+  },
+  {
+    "id": "America/North_Dakota/Beulah",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000
+  },
+  {
+    "id": "America/North_Dakota/Center",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) North Dakota/Center"
+  },
+  {
+    "id": "America/North_Dakota/New_Salem",
+    "name": "Central Standard Time",
+    "country": "US",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) North Dakota/New Salem"
+  },
+  {
+    "id": "America/Ojinaga",
+    "name": "Mountain Standard Time",
+    "country": "MX",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600
+  },
+  {
+    "id": "America/Panama",
+    "name": "SA Pacific Standard Time",
+    "country": "PA",
+    "abbreviation": "EST",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Panama"
+  },
+  {
+    "id": "America/Pangnirtung",
+    "name": "Eastern Standard Time",
+    "country": "CA",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Pangnirtung"
+  },
+  {
+    "id": "America/Paramaribo",
+    "name": "SA Eastern Standard Time",
+    "country": "SR",
+    "abbreviation": "SRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Paramaribo"
+  },
+  {
+    "id": "America/Phoenix",
+    "name": "US Mountain Standard Time",
+    "country": "US",
+    "abbreviation": "MST",
+    "dst": 0,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-07:00) Arizona"
+  },
+  {
+    "id": "America/Port-au-Prince",
+    "name": "Eastern Standard Time",
+    "country": "HT",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Port-au-Prince"
+  },
+  {
+    "id": "America/Port_of_Spain",
+    "name": "SA Western Standard Time",
+    "country": "TT",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Port of Spain"
+  },
+  {
+    "id": "America/Porto_Velho",
+    "name": "SA Western Standard Time",
+    "country": "BR",
+    "abbreviation": "AMT",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Porto Velho"
+  },
+  {
+    "id": "America/Puerto_Rico",
+    "name": "SA Western Standard Time",
+    "country": "PR",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Puerto Rico"
+  },
+  {
+    "id": "America/Rainy_River",
+    "name": "Central Standard Time",
+    "country": "CA",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Rainy River"
+  },
+  {
+    "id": "America/Rankin_Inlet",
+    "name": "Central Standard Time",
+    "country": "CA",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Rankin Inlet"
+  },
+  {
+    "id": "America/Recife",
+    "name": "SA Eastern Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Recife"
+  },
+  {
+    "id": "America/Regina",
+    "name": "Canada Central Standard Time",
+    "country": "CA",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Saskatchewan"
+  },
+  {
+    "id": "America/Resolute",
+    "name": "Central Standard Time",
+    "country": "CA",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Resolute"
+  },
+  {
+    "id": "America/Rio_Branco",
+    "name": "SA Pacific Standard Time",
+    "country": "BR",
+    "abbreviation": "ACT",
+    "dst": 0,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-05:00) Rio Branco"
+  },
+  {
+    "id": "America/Santa_Isabel",
+    "name": "Pacific Standard Time (Mexico)",
+    "country": "MX",
+    "abbreviation": "PDT",
+    "dst": 1,
+    "gmtOffset": -25200
+  },
+  {
+    "id": "America/Santarem",
+    "name": "SA Eastern Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800
+  },
+  {
+    "id": "America/Santiago",
+    "name": "Pacific SA Standard Time",
+    "country": "CL",
+    "abbreviation": "CLT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Santiago"
+  },
+  {
+    "id": "America/Santo_Domingo",
+    "name": "SA Western Standard Time",
+    "country": "DO",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) Santo Domingo"
+  },
+  {
+    "id": "America/Sao_Paulo",
+    "name": "E. South America Standard Time",
+    "country": "BR",
+    "abbreviation": "BRT",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-03:00) Brasilia"
+  },
+  {
+    "id": "America/Scoresbysund",
+    "name": "Azores Standard Time",
+    "country": "GL",
+    "abbreviation": "EGST",
+    "dst": 1,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT-01:00) Scoresbysund"
+  },
+  {
+    "id": "America/Sitka",
+    "name": "Alaskan Standard Time",
+    "country": "US",
+    "abbreviation": "AKDT",
+    "dst": 1,
+    "gmtOffset": -28800
+  },
+  {
+    "id": "America/St_Barthelemy",
+    "name": "SA Western Standard Time",
+    "country": "BL",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/St_Johns",
+    "name": "Newfoundland Standard Time",
+    "country": "CA",
+    "abbreviation": "NDT",
+    "dst": 1,
+    "gmtOffset": -9000,
+    "friendlyName": "(GMT-03:30) Newfoundland"
+  },
+  {
+    "id": "America/St_Kitts",
+    "name": "SA Western Standard Time",
+    "country": "KN",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) St Kitts"
+  },
+  {
+    "id": "America/St_Lucia",
+    "name": "SA Western Standard Time",
+    "country": "LC",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) St Lucia"
+  },
+  {
+    "id": "America/St_Thomas",
+    "name": "SA Western Standard Time",
+    "country": "VI",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/St_Vincent",
+    "name": "SA Western Standard Time",
+    "country": "VC",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-04:00) St Vincent"
+  },
+  {
+    "id": "America/Swift_Current",
+    "name": "Canada Central Standard Time",
+    "country": "CA",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Swift Current"
+  },
+  {
+    "id": "America/Tegucigalpa",
+    "name": "Central America Standard Time",
+    "country": "HN",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Tegucigalpa"
+  },
+  {
+    "id": "America/Thule",
+    "name": "Atlantic Standard Time",
+    "country": "GL",
+    "abbreviation": "ADT",
+    "dst": 1,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Thule"
+  },
+  {
+    "id": "America/Thunder_Bay",
+    "name": "Eastern Standard Time",
+    "country": "CA",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Thunder Bay"
+  },
+  {
+    "id": "America/Tijuana",
+    "name": "Pacific Standard Time",
+    "country": "MX",
+    "abbreviation": "PDT",
+    "dst": 1,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-08:00) Tijuana"
+  },
+  {
+    "id": "America/Toronto",
+    "name": "Eastern Standard Time",
+    "country": "CA",
+    "abbreviation": "EDT",
+    "dst": 1,
+    "gmtOffset": -14400,
+    "friendlyName": "(GMT-05:00) Toronto"
+  },
+  {
+    "id": "America/Tortola",
+    "name": "SA Western Standard Time",
+    "country": "VG",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": -14400
+  },
+  {
+    "id": "America/Vancouver",
+    "name": "Pacific Standard Time",
+    "country": "CA",
+    "abbreviation": "PDT",
+    "dst": 1,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-08:00) Vancouver"
+  },
+  {
+    "id": "America/Whitehorse",
+    "name": "Pacific Standard Time",
+    "country": "CA",
+    "abbreviation": "PDT",
+    "dst": 1,
+    "gmtOffset": -25200,
+    "friendlyName": "(GMT-08:00) Whitehorse"
+  },
+  {
+    "id": "America/Winnipeg",
+    "name": "Central Standard Time",
+    "country": "CA",
+    "abbreviation": "CDT",
+    "dst": 1,
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Winnipeg"
+  },
+  {
+    "id": "America/Yakutat",
+    "name": "Alaskan Standard Time",
+    "country": "US",
+    "abbreviation": "AKDT",
+    "dst": 1,
+    "gmtOffset": -28800,
+    "friendlyName": "(GMT-09:00) Yakutat"
+  },
+  {
+    "id": "America/Yellowknife",
+    "name": "Mountain Standard Time",
+    "country": "CA",
+    "abbreviation": "MDT",
+    "dst": 1,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-07:00) Yellowknife"
+  },
+  {
+    "id": "Antarctica/Macquarie",
+    "name": "Central Pacific Standard Time",
+    "country": "AU",
+    "abbreviation": "MIST",
+    "dst": 0,
+    "gmtOffset": 39600
+  },
+  {
+    "id": "Arctic/Longyearbyen",
+    "name": "W. Europe Standard Time",
+    "country": "SJ",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Longyearbyen"
+  },
+  {
+    "id": "Asia/Aden",
+    "name": "Arab Standard Time",
+    "country": "YE",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Aden"
+  },
+  {
+    "id": "Asia/Almaty",
+    "name": "Central Asia Standard Time",
+    "country": "KZ",
+    "abbreviation": "ALMT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Almaty"
+  },
+  {
+    "id": "Asia/Amman",
+    "name": "Jordan Standard Time",
+    "country": "JO",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Amman"
+  },
+  {
+    "id": "Asia/Anadyr",
+    "name": "Russia Time Zone 11",
+    "country": "RU",
+    "abbreviation": "ANAT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Anadyr"
+  },
+  {
+    "id": "Asia/Aqtau",
+    "name": "West Asia Standard Time",
+    "country": "KZ",
+    "abbreviation": "AQTT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Aqtau"
+  },
+  {
+    "id": "Asia/Aqtobe",
+    "name": "West Asia Standard Time",
+    "country": "KZ",
+    "abbreviation": "AQTT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Aqtobe"
+  },
+  {
+    "id": "Asia/Ashgabat",
+    "name": "West Asia Standard Time",
+    "country": "TM",
+    "abbreviation": "TMT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Ashgabat"
+  },
+  {
+    "id": "Asia/Baghdad",
+    "name": "Arabic Standard Time",
+    "country": "IQ",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Baghdad"
+  },
+  {
+    "id": "Asia/Bahrain",
+    "name": "Arab Standard Time",
+    "country": "BH",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Bahrain"
+  },
+  {
+    "id": "Asia/Baku",
+    "name": "Azerbaijan Standard Time",
+    "country": "AZ",
+    "abbreviation": "AZST",
+    "dst": 1,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+04:00) Baku"
+  },
+  {
+    "id": "Asia/Bangkok",
+    "name": "SE Asia Standard Time",
+    "country": "TH",
+    "abbreviation": "ICT",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Jakarta"
+  },
+  {
+    "id": "Asia/Beirut",
+    "name": "Middle East Standard Time",
+    "country": "LB",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Beirut"
+  },
+  {
+    "id": "Asia/Bishkek",
+    "name": "Central Asia Standard Time",
+    "country": "KG",
+    "abbreviation": "KGT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Bishkek"
+  },
+  {
+    "id": "Asia/Brunei",
+    "name": "Singapore Standard Time",
+    "country": "BN",
+    "abbreviation": "BNT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Brunei"
+  },
+  {
+    "id": "Asia/Choibalsan",
+    "name": "Ulaanbaatar Standard Time",
+    "country": "MN",
+    "abbreviation": "CHOST",
+    "dst": 1,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Choibalsan"
+  },
+  {
+    "id": "Asia/Chongqing",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+08:00) Chongqing"
+  },
+  {
+    "id": "Asia/Colombo",
+    "name": "Sri Lanka Standard Time",
+    "country": "LK",
+    "abbreviation": "IST",
+    "dst": 0,
+    "gmtOffset": 19800,
+    "friendlyName": "(GMT+06:00) Sri Jayawardenepura"
+  },
+  {
+    "id": "Asia/Damascus",
+    "name": "Syria Standard Time",
+    "country": "SY",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Damascus"
+  },
+  {
+    "id": "Asia/Dhaka",
+    "name": "Bangladesh Standard Time",
+    "country": "BD",
+    "abbreviation": "BDT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Dhaka"
+  },
+  {
+    "id": "Asia/Dili",
+    "name": "Tokyo Standard Time",
+    "country": "TL",
+    "abbreviation": "TLT",
+    "dst": 0,
+    "gmtOffset": 32400
+  },
+  {
+    "id": "Asia/Dubai",
+    "name": "Arabian Standard Time",
+    "country": "AE",
+    "abbreviation": "GST",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Dubai"
+  },
+  {
+    "id": "Asia/Dushanbe",
+    "name": "West Asia Standard Time",
+    "country": "TJ",
+    "abbreviation": "TJT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Dushanbe"
+  },
+  {
+    "id": "Asia/Gaza",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "country": "PS",
+    "gmtOffset": 10800
+  },
+  {
+    "id": "Asia/Harbin",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+08:00) Harbin"
+  },
+  {
+    "id": "Asia/Hebron",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "country": "PS",
+    "gmtOffset": 10800
+  },
+  {
+    "id": "Asia/Ho_Chi_Minh",
+    "abbreviation": "ICT",
+    "dst": 0,
+    "country": "VN",
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Ho Chi Minh"
+  },
+  {
+    "id": "Asia/Hong_Kong",
+    "name": "China Standard Time",
+    "country": "HK",
+    "abbreviation": "HKT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Urumqi"
+  },
+  {
+    "id": "Asia/Hovd",
+    "name": "SE Asia Standard Time",
+    "country": "MN",
+    "abbreviation": "HOVST",
+    "dst": 1,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+07:00) Hovd"
+  },
+  {
+    "id": "Asia/Irkutsk",
+    "name": "North Asia East Standard Time",
+    "country": "RU",
+    "abbreviation": "IRKT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Ulaan Bataar"
+  },
+  {
+    "id": "Asia/Jakarta",
+    "name": "SE Asia Standard Time",
+    "country": "ID",
+    "abbreviation": "WIB",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Jakarta"
+  },
+  {
+    "id": "Asia/Jayapura",
+    "name": "Tokyo Standard Time",
+    "country": "ID",
+    "abbreviation": "WIT",
+    "dst": 0,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Jayapura"
+  },
+  {
+    "id": "Asia/Jerusalem",
+    "name": "Israel Standard Time",
+    "country": "IL",
+    "abbreviation": "IDT",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Jerusalem"
+  },
+  {
+    "id": "Asia/Kabul",
+    "name": "Afghanistan Standard Time",
+    "country": "AF",
+    "abbreviation": "AFT",
+    "dst": 0,
+    "gmtOffset": 16200,
+    "friendlyName": "(GMT+04:30) Kabul"
+  },
+  {
+    "id": "Asia/Kamchatka",
+    "name": "Russia Time Zone 11",
+    "country": "RU",
+    "abbreviation": "PETT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Kamchatka"
+  },
+  {
+    "id": "Asia/Karachi",
+    "name": "Pakistan Standard Time",
+    "country": "PK",
+    "abbreviation": "PKT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Tashkent"
+  },
+  {
+    "id": "Asia/Kashgar",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+08:00) Kashgar"
+  },
+  {
+    "id": "Asia/Kathmandu",
+    "abbreviation": "NPT",
+    "dst": 0,
+    "country": "NP",
+    "gmtOffset": 20700
+  },
+  {
+    "id": "Asia/Khandyga",
+    "name": "Yakutsk Standard Time",
+    "country": "RU",
+    "abbreviation": "YAKT",
+    "dst": 0,
+    "gmtOffset": 32400
+  },
+  {
+    "id": "Asia/Kolkata",
+    "abbreviation": "IST",
+    "dst": 0,
+    "country": "IN",
+    "gmtOffset": 19800,
+    "friendlyName": "(GMT+05:00) Kolkata"
+  },
+  {
+    "id": "Asia/Krasnoyarsk",
+    "name": "North Asia Standard Time",
+    "country": "RU",
+    "abbreviation": "KRAT",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Krasnoyarsk"
+  },
+  {
+    "id": "Asia/Kuala_Lumpur",
+    "name": "Singapore Standard Time",
+    "country": "MY",
+    "abbreviation": "MYT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Kuala Lumpur"
+  },
+  {
+    "id": "Asia/Kuching",
+    "name": "Singapore Standard Time",
+    "country": "MY",
+    "abbreviation": "MYT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Kuching"
+  },
+  {
+    "id": "Asia/Kuwait",
+    "name": "Arab Standard Time",
+    "country": "KW",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Kuwait"
+  },
+  {
+    "id": "Asia/Macau",
+    "name": "China Standard Time",
+    "country": "MO",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": 28800
+  },
+  {
+    "id": "Asia/Magadan",
+    "name": "Magadan Standard Time",
+    "country": "RU",
+    "abbreviation": "MAGT",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+11:00) Solomon Is."
+  },
+  {
+    "id": "Asia/Makassar",
+    "name": "Singapore Standard Time",
+    "country": "ID",
+    "abbreviation": "WITA",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Makassar"
+  },
+  {
+    "id": "Asia/Manila",
+    "name": "Singapore Standard Time",
+    "country": "PH",
+    "abbreviation": "PHT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Manila"
+  },
+  {
+    "id": "Asia/Muscat",
+    "name": "Arabian Standard Time",
+    "country": "OM",
+    "abbreviation": "GST",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Muscat"
+  },
+  {
+    "id": "Asia/Nicosia",
+    "name": "GTB Standard Time",
+    "country": "CY",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Nicosia"
+  },
+  {
+    "id": "Asia/Novokuznetsk",
+    "name": "North Asia Standard Time",
+    "country": "RU",
+    "abbreviation": "KRAT",
+    "dst": 0,
+    "gmtOffset": 25200
+  },
+  {
+    "id": "Asia/Novosibirsk",
+    "name": "N. Central Asia Standard Time",
+    "country": "RU",
+    "abbreviation": "NOVT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Novosibirsk"
+  },
+  {
+    "id": "Asia/Omsk",
+    "name": "N. Central Asia Standard Time",
+    "country": "RU",
+    "abbreviation": "OMST",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Omsk"
+  },
+  {
+    "id": "Asia/Oral",
+    "name": "West Asia Standard Time",
+    "country": "KZ",
+    "abbreviation": "ORAT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Oral"
+  },
+  {
+    "id": "Asia/Phnom_Penh",
+    "name": "SE Asia Standard Time",
+    "country": "KH",
+    "abbreviation": "ICT",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Phnom Penh"
+  },
+  {
+    "id": "Asia/Pontianak",
+    "name": "SE Asia Standard Time",
+    "country": "ID",
+    "abbreviation": "WIB",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Pontianak"
+  },
+  {
+    "id": "Asia/Pyongyang",
+    "name": "Korea Standard Time",
+    "country": "KP",
+    "abbreviation": "KST",
+    "dst": 0,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Pyongyang"
+  },
+  {
+    "id": "Asia/Qatar",
+    "name": "Arab Standard Time",
+    "country": "QA",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Qatar"
+  },
+  {
+    "id": "Asia/Qyzylorda",
+    "name": "Central Asia Standard Time",
+    "country": "KZ",
+    "abbreviation": "QYZT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Qyzylorda"
+  },
+  {
+    "id": "Asia/Rangoon",
+    "name": "Myanmar Standard Time",
+    "country": "MM",
+    "abbreviation": "MMT",
+    "dst": 0,
+    "gmtOffset": 23400,
+    "friendlyName": "(GMT+06:30) Rangoon"
+  },
+  {
+    "id": "Asia/Riyadh",
+    "name": "Arab Standard Time",
+    "country": "SA",
+    "abbreviation": "AST",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Riyadh"
+  },
+  {
+    "id": "Asia/Sakhalin",
+    "name": "Vladivostok Standard Time",
+    "country": "RU",
+    "abbreviation": "SAKT",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Sakhalin"
+  },
+  {
+    "id": "Asia/Samarkand",
+    "name": "West Asia Standard Time",
+    "country": "UZ",
+    "abbreviation": "UZT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Samarkand"
+  },
+  {
+    "id": "Asia/Seoul",
+    "name": "Korea Standard Time",
+    "country": "KR",
+    "abbreviation": "KST",
+    "dst": 0,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Seoul"
+  },
+  {
+    "id": "Asia/Shanghai",
+    "name": "China Standard Time",
+    "country": "CN",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Shanghai"
+  },
+  {
+    "id": "Asia/Singapore",
+    "name": "Singapore Standard Time",
+    "country": "SG",
+    "abbreviation": "SGT",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Singapore"
+  },
+  {
+    "id": "Asia/Taipei",
+    "name": "Taipei Standard Time",
+    "country": "TW",
+    "abbreviation": "CST",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Taipei"
+  },
+  {
+    "id": "Asia/Tashkent",
+    "name": "West Asia Standard Time",
+    "country": "UZ",
+    "abbreviation": "UZT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Tashkent"
+  },
+  {
+    "id": "Asia/Tbilisi",
+    "name": "Georgian Standard Time",
+    "country": "GE",
+    "abbreviation": "GET",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Yerevan"
+  },
+  {
+    "id": "Asia/Tehran",
+    "name": "Iran Standard Time",
+    "country": "IR",
+    "abbreviation": "IRDT",
+    "dst": 1,
+    "gmtOffset": 16200,
+    "friendlyName": "(GMT+03:30) Tehran"
+  },
+  {
+    "id": "Asia/Thimphu",
+    "name": "Bangladesh Standard Time",
+    "country": "BT",
+    "abbreviation": "BTT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+06:00) Thimphu"
+  },
+  {
+    "id": "Asia/Tokyo",
+    "name": "Tokyo Standard Time",
+    "country": "JP",
+    "abbreviation": "JST",
+    "dst": 0,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Tokyo"
+  },
+  {
+    "id": "Asia/Ulaanbaatar",
+    "name": "Ulaanbaatar Standard Time",
+    "country": "MN",
+    "abbreviation": "ULAST",
+    "dst": 1,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+08:00) Ulaanbaatar"
+  },
+  {
+    "id": "Asia/Urumqi",
+    "name": "Central Asia Standard Time",
+    "country": "CN",
+    "abbreviation": "XJT",
+    "dst": 0,
+    "gmtOffset": 21600,
+    "friendlyName": "(GMT+08:00) Urumqi"
+  },
+  {
+    "id": "Asia/Ust-Nera",
+    "name": "Vladivostok Standard Time",
+    "country": "RU",
+    "abbreviation": "VLAT",
+    "dst": 0,
+    "gmtOffset": 36000
+  },
+  {
+    "id": "Asia/Vientiane",
+    "name": "SE Asia Standard Time",
+    "country": "LA",
+    "abbreviation": "ICT",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Vientiane"
+  },
+  {
+    "id": "Asia/Vladivostok",
+    "name": "Vladivostok Standard Time",
+    "country": "RU",
+    "abbreviation": "VLAT",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Vladivostok"
+  },
+  {
+    "id": "Asia/Yakutsk",
+    "name": "Yakutsk Standard Time",
+    "country": "RU",
+    "abbreviation": "YAKT",
+    "dst": 0,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Yakutsk"
+  },
+  {
+    "id": "Asia/Yekaterinburg",
+    "name": "Ekaterinburg Standard Time",
+    "country": "RU",
+    "abbreviation": "YEKT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Ekaterinburg"
+  },
+  {
+    "id": "Asia/Yerevan",
+    "name": "Caucasus Standard Time",
+    "country": "AM",
+    "abbreviation": "AMT",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Yerevan"
+  },
+  {
+    "id": "Atlantic/Azores",
+    "name": "Azores Standard Time",
+    "country": "PT",
+    "abbreviation": "AZOST",
+    "dst": 1,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT-01:00) Azores"
+  },
+  {
+    "id": "Atlantic/Bermuda",
+    "name": "Atlantic Standard Time",
+    "country": "BM",
+    "abbreviation": "ADT",
+    "dst": 1,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Bermuda"
+  },
+  {
+    "id": "Atlantic/Canary",
+    "name": "GMT Standard Time",
+    "country": "ES",
+    "abbreviation": "WEST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Canary"
+  },
+  {
+    "id": "Atlantic/Cape_Verde",
+    "name": "Cape Verde Standard Time",
+    "country": "CV",
+    "abbreviation": "CVT",
+    "dst": 0,
+    "gmtOffset": -3600,
+    "friendlyName": "(GMT-01:00) Cape Verde Is."
+  },
+  {
+    "id": "Atlantic/Faroe",
+    "abbreviation": "WEST",
+    "dst": 1,
+    "country": "FO",
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Faroe"
+  },
+  {
+    "id": "Atlantic/Madeira",
+    "name": "GMT Standard Time",
+    "country": "PT",
+    "abbreviation": "WEST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Madeira"
+  },
+  {
+    "id": "Atlantic/Reykjavik",
+    "name": "Greenwich Standard Time",
+    "country": "IS",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0,
+    "friendlyName": "(GMT+00:00) Reykjavik"
+  },
+  {
+    "id": "Atlantic/South_Georgia",
+    "name": "UTC-02",
+    "country": "GS",
+    "abbreviation": "GST",
+    "dst": 0,
+    "gmtOffset": -7200
+  },
+  {
+    "id": "Atlantic/St_Helena",
+    "name": "Greenwich Standard Time",
+    "country": "SH",
+    "abbreviation": "GMT",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Atlantic/Stanley",
+    "name": "SA Eastern Standard Time",
+    "country": "FK",
+    "abbreviation": "FKST",
+    "dst": 0,
+    "gmtOffset": -10800,
+    "friendlyName": "(GMT-04:00) Stanley"
+  },
+  {
+    "id": "Australia/Adelaide",
+    "name": "Cen. Australia Standard Time",
+    "country": "AU",
+    "abbreviation": "ACST",
+    "dst": 0,
+    "gmtOffset": 34200,
+    "friendlyName": "(GMT+09:30) Adelaide"
+  },
+  {
+    "id": "Australia/Brisbane",
+    "name": "E. Australia Standard Time",
+    "country": "AU",
+    "abbreviation": "AEST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Brisbane"
+  },
+  {
+    "id": "Australia/Broken_Hill",
+    "name": "Cen. Australia Standard Time",
+    "country": "AU",
+    "abbreviation": "ACST",
+    "dst": 0,
+    "gmtOffset": 34200,
+    "friendlyName": "(GMT+09:00) Broken Hill"
+  },
+  {
+    "id": "Australia/Currie",
+    "name": "Tasmania Standard Time",
+    "country": "AU",
+    "abbreviation": "AEST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Currie"
+  },
+  {
+    "id": "Australia/Darwin",
+    "name": "AUS Central Standard Time",
+    "country": "AU",
+    "abbreviation": "ACST",
+    "dst": 0,
+    "gmtOffset": 34200,
+    "friendlyName": "(GMT+09:30) Darwin"
+  },
+  {
+    "id": "Australia/Eucla",
+    "abbreviation": "ACWST",
+    "dst": 0,
+    "country": "AU",
+    "gmtOffset": 31500,
+    "friendlyName": "(GMT+08:00) Eucla"
+  },
+  {
+    "id": "Australia/Hobart",
+    "name": "Tasmania Standard Time",
+    "country": "AU",
+    "abbreviation": "AEST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Hobart"
+  },
+  {
+    "id": "Australia/Lindeman",
+    "name": "E. Australia Standard Time",
+    "country": "AU",
+    "abbreviation": "AEST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Lindeman"
+  },
+  {
+    "id": "Australia/Lord_Howe",
+    "abbreviation": "LHST",
+    "dst": 0,
+    "country": "AU",
+    "gmtOffset": 37800,
+    "friendlyName": "(GMT+10:00) Lord Howe"
+  },
+  {
+    "id": "Australia/Melbourne",
+    "name": "AUS Eastern Standard Time",
+    "country": "AU",
+    "abbreviation": "AEST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Melbourne"
+  },
+  {
+    "id": "Australia/Perth",
+    "name": "W. Australia Standard Time",
+    "country": "AU",
+    "abbreviation": "AWST",
+    "dst": 0,
+    "gmtOffset": 28800,
+    "friendlyName": "(GMT+08:00) Perth"
+  },
+  {
+    "id": "Australia/Sydney",
+    "name": "AUS Eastern Standard Time",
+    "country": "AU",
+    "abbreviation": "AEST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Sydney"
+  },
+  {
+    "id": "Etc/GMT",
+    "name": "UTC",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+1",
+    "name": "Cape Verde Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+10",
+    "name": "Hawaiian Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+11",
+    "name": "UTC-11",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+12",
+    "name": "Dateline Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+2",
+    "name": "UTC-02",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+3",
+    "name": "SA Eastern Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+4",
+    "name": "SA Western Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+5",
+    "name": "SA Pacific Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+6",
+    "name": "Central America Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+7",
+    "name": "US Mountain Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+8",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT+9",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-1",
+    "name": "W. Central Africa Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-10",
+    "name": "West Pacific Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-11",
+    "name": "Central Pacific Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-12",
+    "name": "UTC+12",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-2",
+    "name": "South Africa Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-3",
+    "name": "E. Africa Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-4",
+    "name": "Arabian Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-5",
+    "name": "West Asia Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-6",
+    "name": "Central Asia Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-7",
+    "name": "SE Asia Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-8",
+    "name": "Singapore Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Etc/GMT-9",
+    "name": "Tokyo Standard Time",
+    "country": "ZZ",
+    "dst": 0,
+    "gmtOffset": 0
+  },
+  {
+    "id": "Europe/Amsterdam",
+    "name": "W. Europe Standard Time",
+    "country": "NL",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Amsterdam"
+  },
+  {
+    "id": "Europe/Andorra",
+    "name": "W. Europe Standard Time",
+    "country": "AD",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Andorra"
+  },
+  {
+    "id": "Europe/Athens",
+    "name": "GTB Standard Time",
+    "country": "GR",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Athens"
+  },
+  {
+    "id": "Europe/Belgrade",
+    "name": "Central Europe Standard Time",
+    "country": "RS",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Prague"
+  },
+  {
+    "id": "Europe/Berlin",
+    "name": "W. Europe Standard Time",
+    "country": "DE",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Vienna"
+  },
+  {
+    "id": "Europe/Bratislava",
+    "name": "Central Europe Standard Time",
+    "country": "SK",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Bratislava"
+  },
+  {
+    "id": "Europe/Brussels",
+    "name": "Romance Standard Time",
+    "country": "BE",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Brussels"
+  },
+  {
+    "id": "Europe/Bucharest",
+    "name": "GTB Standard Time",
+    "country": "RO",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Bucharest"
+  },
+  {
+    "id": "Europe/Budapest",
+    "name": "Central Europe Standard Time",
+    "country": "HU",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Budapest"
+  },
+  {
+    "id": "Europe/Chisinau",
+    "name": "GTB Standard Time",
+    "country": "MD",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Chisinau"
+  },
+  {
+    "id": "Europe/Copenhagen",
+    "name": "Romance Standard Time",
+    "country": "DK",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Copenhagen"
+  },
+  {
+    "id": "Europe/Dublin",
+    "name": "GMT Standard Time",
+    "country": "IE",
+    "abbreviation": "IST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Dublin"
+  },
+  {
+    "id": "Europe/Gibraltar",
+    "name": "W. Europe Standard Time",
+    "country": "GI",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Gibraltar"
+  },
+  {
+    "id": "Europe/Guernsey",
+    "name": "GMT Standard Time",
+    "country": "GG",
+    "abbreviation": "BST",
+    "dst": 1,
+    "gmtOffset": 3600
+  },
+  {
+    "id": "Europe/Helsinki",
+    "name": "FLE Standard Time",
+    "country": "FI",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Vilnius"
+  },
+  {
+    "id": "Europe/Isle_of_Man",
+    "name": "GMT Standard Time",
+    "country": "IM",
+    "abbreviation": "BST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Isle of Man"
+  },
+  {
+    "id": "Europe/Istanbul",
+    "name": "Turkey Standard Time",
+    "country": "TR",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Minsk"
+  },
+  {
+    "id": "Europe/Jersey",
+    "name": "GMT Standard Time",
+    "country": "JE",
+    "abbreviation": "BST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Jersey"
+  },
+  {
+    "id": "Europe/Kaliningrad",
+    "name": "Kaliningrad Standard Time",
+    "country": "RU",
+    "abbreviation": "EET",
+    "dst": 0,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+02:00) Kaliningrad"
+  },
+  {
+    "id": "Europe/Kiev",
+    "name": "FLE Standard Time",
+    "country": "UA",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Kiev"
+  },
+  {
+    "id": "Europe/Lisbon",
+    "name": "GMT Standard Time",
+    "country": "PT",
+    "abbreviation": "WEST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT+00:00) Lisbon"
+  },
+  {
+    "id": "Europe/Ljubljana",
+    "name": "Central Europe Standard Time",
+    "country": "SI",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Ljubljana"
+  },
+  {
+    "id": "Europe/London",
+    "name": "GMT Standard Time",
+    "country": "GB",
+    "abbreviation": "BST",
+    "dst": 1,
+    "gmtOffset": 3600,
+    "friendlyName": "(GMT) London"
+  },
+  {
+    "id": "Europe/Luxembourg",
+    "name": "W. Europe Standard Time",
+    "country": "LU",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Luxembourg"
+  },
+  {
+    "id": "Europe/Madrid",
+    "name": "Romance Standard Time",
+    "country": "ES",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Madrid"
+  },
+  {
+    "id": "Europe/Malta",
+    "name": "W. Europe Standard Time",
+    "country": "MT",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Malta"
+  },
+  {
+    "id": "Europe/Mariehamn",
+    "name": "FLE Standard Time",
+    "country": "AX",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800
+  },
+  {
+    "id": "Europe/Minsk",
+    "name": "Belarus Standard Time",
+    "country": "BY",
+    "abbreviation": "MSK",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Minsk"
+  },
+  {
+    "id": "Europe/Monaco",
+    "name": "W. Europe Standard Time",
+    "country": "MC",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Monaco"
+  },
+  {
+    "id": "Europe/Moscow",
+    "name": "Russian Standard Time",
+    "country": "RU",
+    "abbreviation": "MSK",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Volgograd"
+  },
+  {
+    "id": "Europe/Oslo",
+    "name": "W. Europe Standard Time",
+    "country": "NO",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Oslo"
+  },
+  {
+    "id": "Europe/Paris",
+    "name": "Romance Standard Time",
+    "country": "FR",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Paris"
+  },
+  {
+    "id": "Europe/Podgorica",
+    "name": "Central Europe Standard Time",
+    "country": "ME",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200
+  },
+  {
+    "id": "Europe/Prague",
+    "name": "Central Europe Standard Time",
+    "country": "CZ",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Prague"
+  },
+  {
+    "id": "Europe/Riga",
+    "name": "FLE Standard Time",
+    "country": "LV",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Riga"
+  },
+  {
+    "id": "Europe/Rome",
+    "name": "W. Europe Standard Time",
+    "country": "IT",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Rome"
+  },
+  {
+    "id": "Europe/Samara",
+    "name": "Russia Time Zone 3",
+    "country": "RU",
+    "abbreviation": "SAMT",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Samara"
+  },
+  {
+    "id": "Europe/San_Marino",
+    "name": "W. Europe Standard Time",
+    "country": "SM",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) San Marino"
+  },
+  {
+    "id": "Europe/Sarajevo",
+    "name": "Central European Standard Time",
+    "country": "BA",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Zagreb"
+  },
+  {
+    "id": "Europe/Simferopol",
+    "name": "Russian Standard Time",
+    "country": "RU",
+    "abbreviation": "MSK",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Simferopol"
+  },
+  {
+    "id": "Europe/Skopje",
+    "name": "Central European Standard Time",
+    "country": "MK",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200
+  },
+  {
+    "id": "Europe/Sofia",
+    "name": "FLE Standard Time",
+    "country": "BG",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Sofia"
+  },
+  {
+    "id": "Europe/Stockholm",
+    "name": "W. Europe Standard Time",
+    "country": "SE",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Stockholm"
+  },
+  {
+    "id": "Europe/Tallinn",
+    "name": "FLE Standard Time",
+    "country": "EE",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Tallinn"
+  },
+  {
+    "id": "Europe/Tirane",
+    "name": "Central Europe Standard Time",
+    "country": "AL",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Tirane"
+  },
+  {
+    "id": "Europe/Uzhgorod",
+    "name": "FLE Standard Time",
+    "country": "UA",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Uzhgorod"
+  },
+  {
+    "id": "Europe/Vaduz",
+    "name": "W. Europe Standard Time",
+    "country": "LI",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Vaduz"
+  },
+  {
+    "id": "Europe/Vatican",
+    "name": "W. Europe Standard Time",
+    "country": "VA",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200
+  },
+  {
+    "id": "Europe/Vienna",
+    "name": "W. Europe Standard Time",
+    "country": "AT",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Vienna"
+  },
+  {
+    "id": "Europe/Vilnius",
+    "name": "FLE Standard Time",
+    "country": "LT",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Vilnius"
+  },
+  {
+    "id": "Europe/Volgograd",
+    "name": "Russian Standard Time",
+    "country": "RU",
+    "abbreviation": "MSK",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Volgograd"
+  },
+  {
+    "id": "Europe/Warsaw",
+    "name": "Central European Standard Time",
+    "country": "PL",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Warsaw"
+  },
+  {
+    "id": "Europe/Zagreb",
+    "name": "Central European Standard Time",
+    "country": "HR",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Zagreb"
+  },
+  {
+    "id": "Europe/Zaporozhye",
+    "name": "FLE Standard Time",
+    "country": "UA",
+    "abbreviation": "EEST",
+    "dst": 1,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+02:00) Zaporozhye"
+  },
+  {
+    "id": "Europe/Zurich",
+    "name": "W. Europe Standard Time",
+    "country": "CH",
+    "abbreviation": "CEST",
+    "dst": 1,
+    "gmtOffset": 7200,
+    "friendlyName": "(GMT+01:00) Zurich"
+  },
+  {
+    "id": "Indian/Antananarivo",
+    "name": "E. Africa Standard Time",
+    "country": "MG",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Antananarivo"
+  },
+  {
+    "id": "Indian/Chagos",
+    "name": "Central Asia Standard Time",
+    "country": "IO",
+    "abbreviation": "IOT",
+    "dst": 0,
+    "gmtOffset": 21600
+  },
+  {
+    "id": "Indian/Christmas",
+    "name": "SE Asia Standard Time",
+    "country": "CX",
+    "abbreviation": "CXT",
+    "dst": 0,
+    "gmtOffset": 25200,
+    "friendlyName": "(GMT+07:00) Christmas"
+  },
+  {
+    "id": "Indian/Cocos",
+    "name": "Myanmar Standard Time",
+    "country": "CC",
+    "abbreviation": "CCT",
+    "dst": 0,
+    "gmtOffset": 23400,
+    "friendlyName": "(GMT+06:00) Cocos"
+  },
+  {
+    "id": "Indian/Comoro",
+    "name": "E. Africa Standard Time",
+    "country": "KM",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Comoro"
+  },
+  {
+    "id": "Indian/Kerguelen",
+    "name": "West Asia Standard Time",
+    "country": "TF",
+    "abbreviation": "TFT",
+    "dst": 0,
+    "gmtOffset": 18000
+  },
+  {
+    "id": "Indian/Mahe",
+    "name": "Mauritius Standard Time",
+    "country": "SC",
+    "abbreviation": "SCT",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Mahe"
+  },
+  {
+    "id": "Indian/Maldives",
+    "name": "West Asia Standard Time",
+    "country": "MV",
+    "abbreviation": "MVT",
+    "dst": 0,
+    "gmtOffset": 18000,
+    "friendlyName": "(GMT+05:00) Maldives"
+  },
+  {
+    "id": "Indian/Mauritius",
+    "name": "Mauritius Standard Time",
+    "country": "MU",
+    "abbreviation": "MUT",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Mauritius"
+  },
+  {
+    "id": "Indian/Mayotte",
+    "name": "E. Africa Standard Time",
+    "country": "YT",
+    "abbreviation": "EAT",
+    "dst": 0,
+    "gmtOffset": 10800,
+    "friendlyName": "(GMT+03:00) Mayotte"
+  },
+  {
+    "id": "Indian/Reunion",
+    "name": "Mauritius Standard Time",
+    "country": "RE",
+    "abbreviation": "RET",
+    "dst": 0,
+    "gmtOffset": 14400,
+    "friendlyName": "(GMT+04:00) Reunion"
+  },
+  {
+    "id": "Pacific/Apia",
+    "name": "Samoa Standard Time",
+    "country": "WS",
+    "abbreviation": "WSST",
+    "dst": 0,
+    "gmtOffset": 46800,
+    "friendlyName": "(GMT-11:00) Samoa"
+  },
+  {
+    "id": "Pacific/Auckland",
+    "name": "New Zealand Standard Time",
+    "country": "NZ",
+    "abbreviation": "NZST",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Wellington"
+  },
+  {
+    "id": "Pacific/Chatham",
+    "abbreviation": "CHAST",
+    "dst": 0,
+    "country": "NZ",
+    "gmtOffset": 45900,
+    "friendlyName": "(GMT+12:00) Chatham"
+  },
+  {
+    "id": "Pacific/Chuuk",
+    "abbreviation": "CHUT",
+    "dst": 0,
+    "country": "FM",
+    "gmtOffset": 36000
+  },
+  {
+    "id": "Pacific/Easter",
+    "abbreviation": "EAST",
+    "dst": 0,
+    "country": "CL",
+    "gmtOffset": -18000,
+    "friendlyName": "(GMT-06:00) Easter"
+  },
+  {
+    "id": "Pacific/Efate",
+    "name": "Central Pacific Standard Time",
+    "country": "VU",
+    "abbreviation": "VUT",
+    "dst": 0,
+    "gmtOffset": 39600,
+    "friendlyName": "(GMT+11:00) Efate"
+  },
+  {
+    "id": "Pacific/Enderbury",
+    "name": "Tonga Standard Time",
+    "country": "KI",
+    "abbreviation": "PHOT",
+    "dst": 0,
+    "gmtOffset": 46800,
+    "friendlyName": "(GMT+13:00) Enderbury"
+  },
+  {
+    "id": "Pacific/Fakaofo",
+    "name": "Tonga Standard Time",
+    "country": "TK",
+    "abbreviation": "TKT",
+    "dst": 0,
+    "gmtOffset": 46800,
+    "friendlyName": "(GMT-10:00) Fakaofo"
+  },
+  {
+    "id": "Pacific/Fiji",
+    "name": "Fiji Standard Time",
+    "country": "FJ",
+    "abbreviation": "FJT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Marshall Is."
+  },
+  {
+    "id": "Pacific/Funafuti",
+    "name": "UTC+12",
+    "country": "TV",
+    "abbreviation": "TVT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Funafuti"
+  },
+  {
+    "id": "Pacific/Galapagos",
+    "name": "Central America Standard Time",
+    "country": "EC",
+    "abbreviation": "GALT",
+    "dst": 0,
+    "gmtOffset": -21600,
+    "friendlyName": "(GMT-06:00) Galapagos"
+  },
+  {
+    "id": "Pacific/Gambier",
+    "abbreviation": "LMT",
+    "dst": 0,
+    "country": "PF",
+    "gmtOffset": -32388,
+    "friendlyName": "(GMT-09:00) Gambier"
+  },
+  {
+    "id": "Pacific/Guadalcanal",
+    "name": "Central Pacific Standard Time",
+    "country": "SB",
+    "abbreviation": "SBT",
+    "dst": 0,
+    "gmtOffset": 39600,
+    "friendlyName": "(GMT+11:00) Guadalcanal"
+  },
+  {
+    "id": "Pacific/Guam",
+    "name": "West Pacific Standard Time",
+    "country": "GU",
+    "abbreviation": "ChST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Port Moresby"
+  },
+  {
+    "id": "Pacific/Honolulu",
+    "name": "Hawaiian Standard Time",
+    "country": "US",
+    "abbreviation": "HST",
+    "dst": 0,
+    "gmtOffset": -36000,
+    "friendlyName": "(GMT-10:00) Hawaii"
+  },
+  {
+    "id": "Pacific/Johnston",
+    "name": "Hawaiian Standard Time",
+    "country": "UM",
+    "abbreviation": "HST",
+    "dst": 0,
+    "gmtOffset": -36000
+  },
+  {
+    "id": "Pacific/Kiritimati",
+    "name": "Line Islands Standard Time",
+    "country": "KI",
+    "abbreviation": "LINT",
+    "dst": 0,
+    "gmtOffset": 50400,
+    "friendlyName": "(GMT+14:00) Kiritimati"
+  },
+  {
+    "id": "Pacific/Kosrae",
+    "name": "Central Pacific Standard Time",
+    "country": "FM",
+    "abbreviation": "KOST",
+    "dst": 0,
+    "gmtOffset": 39600,
+    "friendlyName": "(GMT+11:00) Kosrae"
+  },
+  {
+    "id": "Pacific/Kwajalein",
+    "name": "UTC+12",
+    "country": "MH",
+    "abbreviation": "MHT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Kwajalein"
+  },
+  {
+    "id": "Pacific/Majuro",
+    "name": "UTC+12",
+    "country": "MH",
+    "abbreviation": "MHT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Majuro"
+  },
+  {
+    "id": "Pacific/Marquesas",
+    "abbreviation": "MART",
+    "dst": 0,
+    "country": "PF",
+    "gmtOffset": -34200,
+    "friendlyName": "(GMT-09:00) Marquesas"
+  },
+  {
+    "id": "Pacific/Midway",
+    "name": "UTC-11",
+    "country": "UM",
+    "abbreviation": "SST",
+    "dst": 0,
+    "gmtOffset": -39600
+  },
+  {
+    "id": "Pacific/Nauru",
+    "name": "UTC+12",
+    "country": "NR",
+    "abbreviation": "NRT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Nauru"
+  },
+  {
+    "id": "Pacific/Niue",
+    "name": "UTC-11",
+    "country": "NU",
+    "abbreviation": "NUT",
+    "dst": 0,
+    "gmtOffset": -39600,
+    "friendlyName": "(GMT-11:00) Niue"
+  },
+  {
+    "id": "Pacific/Norfolk",
+    "abbreviation": "NFT",
+    "dst": 0,
+    "country": "NF",
+    "gmtOffset": 41400,
+    "friendlyName": "(GMT+11:00) Norfolk"
+  },
+  {
+    "id": "Pacific/Noumea",
+    "name": "Central Pacific Standard Time",
+    "country": "NC",
+    "abbreviation": "NCT",
+    "dst": 0,
+    "gmtOffset": 39600,
+    "friendlyName": "(GMT+11:00) Noumea"
+  },
+  {
+    "id": "Pacific/Pago_Pago",
+    "name": "UTC-11",
+    "country": "AS",
+    "abbreviation": "SST",
+    "dst": 0,
+    "gmtOffset": -39600,
+    "friendlyName": "(GMT-11:00) Pago Pago"
+  },
+  {
+    "id": "Pacific/Palau",
+    "name": "Tokyo Standard Time",
+    "country": "PW",
+    "abbreviation": "PWT",
+    "dst": 0,
+    "gmtOffset": 32400,
+    "friendlyName": "(GMT+09:00) Palau"
+  },
+  {
+    "id": "Pacific/Pitcairn",
+    "abbreviation": "PST",
+    "dst": 0,
+    "country": "PN",
+    "gmtOffset": -28800,
+    "friendlyName": "(GMT-08:00) Pitcairn"
+  },
+  {
+    "id": "Pacific/Pohnpei",
+    "abbreviation": "PONT",
+    "dst": 0,
+    "country": "FM",
+    "gmtOffset": 39600
+  },
+  {
+    "id": "Pacific/Port_Moresby",
+    "name": "West Pacific Standard Time",
+    "country": "PG",
+    "abbreviation": "PGT",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Port Moresby"
+  },
+  {
+    "id": "Pacific/Rarotonga",
+    "name": "Hawaiian Standard Time",
+    "country": "CK",
+    "abbreviation": "CKT",
+    "dst": 0,
+    "gmtOffset": -36000,
+    "friendlyName": "(GMT-10:00) Rarotonga"
+  },
+  {
+    "id": "Pacific/Saipan",
+    "name": "West Pacific Standard Time",
+    "country": "MP",
+    "abbreviation": "ChST",
+    "dst": 0,
+    "gmtOffset": 36000,
+    "friendlyName": "(GMT+10:00) Saipan"
+  },
+  {
+    "id": "Pacific/Tahiti",
+    "name": "Hawaiian Standard Time",
+    "country": "PF",
+    "abbreviation": "TAHT",
+    "dst": 0,
+    "gmtOffset": -36000,
+    "friendlyName": "(GMT-10:00) Tahiti"
+  },
+  {
+    "id": "Pacific/Tarawa",
+    "name": "UTC+12",
+    "country": "KI",
+    "abbreviation": "GILT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Tarawa"
+  },
+  {
+    "id": "Pacific/Tongatapu",
+    "name": "Tonga Standard Time",
+    "country": "TO",
+    "abbreviation": "TOT",
+    "dst": 0,
+    "gmtOffset": 46800,
+    "friendlyName": "(GMT+13:00) Nuku'alofa"
+  },
+  {
+    "id": "Pacific/Wake",
+    "name": "UTC+12",
+    "country": "UM",
+    "abbreviation": "WAKT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT-12:00) International Date Line West"
+  },
+  {
+    "id": "Pacific/Wallis",
+    "name": "UTC+12",
+    "country": "WF",
+    "abbreviation": "WFT",
+    "dst": 0,
+    "gmtOffset": 43200,
+    "friendlyName": "(GMT+12:00) Wallis"
+  }
+]
