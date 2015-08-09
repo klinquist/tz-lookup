@@ -11,6 +11,30 @@ var DATA = fs.readFileSync(
     FINE_HEIGHT   = 2,
     MAX_TILES     = 65536 - TIMEZONE_LIST.length;
 
+function sortByTz(array) {
+     array.sort(function(a, b) {
+        if ((a.name) && (b.name)) {
+            var keyA = Number(a.name.substr(4,6).replace(":", "."));
+                keyB = Number(b.name.substr(4,6).replace(":", "."));
+            if (keyA < keyB) return -1;
+            if (keyA > keyB) return 1;
+        } else {
+            return 0;
+        }
+    });
+    var newArr = [];
+    for (var i=0; i<array.length; i++){
+        if (array[i].name){
+            newArr.push(array[i])
+        } else {
+            console.log(array[i].id)
+        }
+    }
+    return newArr;
+}
+
+var SORTED_TIMEZONE_LIST = sortByTz(TIMEZONE_LIST.slice(0));
+
 module.exports = function(lat, lon) {
   var x, u, y, v, t, i;
 
@@ -40,4 +64,8 @@ module.exports = function(lat, lon) {
 
   /* Once we hit a leaf, return the relevant timezone. */
   return TIMEZONE_LIST[i - MAX_TILES];
+};
+
+module.exports.list = function(){
+    return SORTED_TIMEZONE_LIST;
 };
